@@ -1,0 +1,12 @@
+{
+  "name": "Gioca e Impara: Memory :Falù e gli animali della savana",
+  "short_name": "Gioca e Impara: Memory :Falù e gli animali della savana",
+  "id": "com.example.pairs",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
